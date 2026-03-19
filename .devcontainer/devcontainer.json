@@ -1,0 +1,8 @@
+{
+  "name": "Universal GPU Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "runArgs": [
+    "--gpus", "all"
+  ]
+}
